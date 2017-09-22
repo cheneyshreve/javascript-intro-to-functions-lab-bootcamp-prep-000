@@ -21,15 +21,6 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
 
-  if (dog === "hungry") {
-    console.log("Refilling food bowl.")
-  } else if (dog === "thirsty") {
-    console.log("Refilling water bowl.")
-  } else {
-    console.log("Reading newspaper.")
-  }
-
- 
   if (string === 'hello') {
     return "I can't hear you."
   } else if (string === "HELLO") {
@@ -37,7 +28,5 @@ function sayHiToGrandma(string) {
   } else if (string === "I love you, Grandma.") {
     return "I love you, too."
   }
-
-  
 
 }
