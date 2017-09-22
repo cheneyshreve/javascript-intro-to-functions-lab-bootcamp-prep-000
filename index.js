@@ -25,7 +25,6 @@ function sayHiToGrandma(string) {
   console.log("I can't hear you.")
 
   logShout('HELLO').toUpperCase
-  uppercase.toUpperCase() === uppercase // true
   console.log("YES INDEED!")
 
   var mixedCase = 'I love you, Grandma.'
